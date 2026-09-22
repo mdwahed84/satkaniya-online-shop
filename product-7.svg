@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420">
+      <rect width="600" height="420" rx="30" fill="#e1f6f5"/>
+      <circle cx="300" cy="175" r="110" fill="#fff" opacity=".8"/>
+      <text x="300" y="215" text-anchor="middle" font-size="125">🎧</text>
+      <text x="300" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#173d32">মোবাইল ও এক্সেসরিজ</text>
+      <text x="300" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#e33124">৳ ৯৯০</text>
+    </svg>
